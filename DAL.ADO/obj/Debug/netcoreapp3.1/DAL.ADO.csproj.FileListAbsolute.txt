@@ -1,0 +1,8 @@
+C:\Epam\Projects\Task5\DAL.ADO\obj\Debug\netcoreapp3.1\DAL.ADO.csprojAssemblyReference.cache
+C:\Epam\Projects\Task5\DAL.ADO\obj\Debug\netcoreapp3.1\DAL.ADO.AssemblyInfoInputs.cache
+C:\Epam\Projects\Task5\DAL.ADO\obj\Debug\netcoreapp3.1\DAL.ADO.AssemblyInfo.cs
+C:\Epam\Projects\Task5\DAL.ADO\bin\Debug\netcoreapp3.1\DAL.ADO.deps.json
+C:\Epam\Projects\Task5\DAL.ADO\bin\Debug\netcoreapp3.1\DAL.ADO.dll
+C:\Epam\Projects\Task5\DAL.ADO\bin\Debug\netcoreapp3.1\DAL.ADO.pdb
+C:\Epam\Projects\Task5\DAL.ADO\obj\Debug\netcoreapp3.1\DAL.ADO.dll
+C:\Epam\Projects\Task5\DAL.ADO\obj\Debug\netcoreapp3.1\DAL.ADO.pdb
